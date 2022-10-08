@@ -1,5 +1,5 @@
 # bdo-decompiled-lua
-8 October 2022 Global Lab Version Decompiled Lua Files
+8 October 2022 Global Lab Version Decompiled Lua Files x64
 
 Shoutout to [tehtmi](https://sourceforge.net/u/tehtmi/profile/) for making this possible
 
