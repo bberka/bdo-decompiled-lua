@@ -1,8 +1,9 @@
 # bdo-decompiled-lua
 BDO Global Lab 10-08-2022 Lua Decompile 
 
-(Decompiler .NET)[https://github.com/berkaybyr/UnluacNET]
-(Decompiler Java)[https://sourceforge.net/projects/unluac/]
+[Decompiler .NET](https://github.com/berkaybyr/UnluacNET)
+
+[Decompiler Java](https://sourceforge.net/projects/unluac/)
 
 Shoutout to [tehtmi](https://sourceforge.net/u/tehtmi/profile/) for making this possible
 
