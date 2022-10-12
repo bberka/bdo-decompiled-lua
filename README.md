@@ -7,4 +7,6 @@ Shoutout to [tehtmi](https://sourceforge.net/u/tehtmi/profile/) for making this 
 
 [Decompiler Java](https://sourceforge.net/projects/unluac/)
 
-## Note: Not all files are decompiled correctly  
+## Things to know
+1. Korean texts are not converted correctly
+2. Floating numbers like 1.5 is unpacked as 1,5 and this will cause a lot of issues. You must find and fix these one by one the files you wanna edit. 
